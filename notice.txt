@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-1
-=======
-dom neu
->>>>>>> dn
 zweites mal
 dn
